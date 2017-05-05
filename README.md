@@ -1,2 +1,1 @@
-# boot_shiro_jwt
-# springboot+shiro+shiro+jwt Restful接口用户校验基础脚手架
+# springboot+shiro+shiro+jwt 基于Restful接口用户权限认证
