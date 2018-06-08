@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /** 
 * @ClassName: UserCredentials
-* @Description: 存放用户及凭证信息，交付给Spring管理默认单例模式，系统全局使用
+* @Description: 存放用户及凭证信息
 * @author REEFE
 * @date 2017-4-28 上午9:49:54
 *  
